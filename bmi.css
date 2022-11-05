@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    width: 80vw;
+    height: 35vh;
+    border: 1px solid black;
+    padding: 20px;
+    gap: 20px;
+    justify-content: center;
+    margin: 20vh auto;
+}
+
+.inputBox {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.resultBox {
+    width: 300px;
+    height: 80px;
+    border: 1px solid black;
+    margin-top: 135px;
+}
+
+.title {
+    width: fit-content;
+    margin: 0px auto;
+}
